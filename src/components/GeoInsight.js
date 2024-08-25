@@ -13,7 +13,7 @@ L.Icon.Default.mergeOptions({
   shadowUrl: require('leaflet/dist/images/marker-shadow.png'),
 });
 
-const API_KEY = 'b65ff0940dfde6a3283d2d7ccfdd8a17';
+const API_KEY = '*******************************';
 
 function ChangeView({ center, zoom }) {
   const map = useMap();
